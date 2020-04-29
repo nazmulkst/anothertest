@@ -1,3 +1,6 @@
 This is newFile for add statging
 
 I have modified this newFile
+
+
+More text added to newFile
