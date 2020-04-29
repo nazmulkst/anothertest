@@ -4,3 +4,6 @@ I have modified this newFile
 
 
 More text added to newFile
+
+
+This is another text.
